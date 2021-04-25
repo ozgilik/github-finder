@@ -1,0 +1,28 @@
+.navbar-brand{
+	user-select: none;
+	i{
+		font-size: 1.6rem;
+	}
+}
+
+.card{
+	overflow: hidden;
+	.profile-image{
+		max-width: 50px;
+	}
+}
+
+.text-blue{
+	color:dodgerblue!important;
+}
+
+.loading{
+	max-width: 100px;
+	opacity: .3;
+}
+
+nav{
+	.active{
+		color:chocolate;
+	}
+}
